@@ -39,6 +39,6 @@ steps:
     npm install
     npm run build
   displayName: 'npm install and build'
-  trigger: 'master'
+
 
 
