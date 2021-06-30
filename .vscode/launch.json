@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "name": "http:/github.com/ngrhadi/",
+      "request": "launch",
+      "url": "http:/github.com/ngrhadi/"
+    }
+  ]
+}

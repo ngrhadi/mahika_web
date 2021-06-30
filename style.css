@@ -1,0 +1,60 @@
+.navbar {
+  font-weight: bold;
+  color: #1a1a1a;
+}
+.container {
+  font-family: 'Titillium Web', sans-serif;
+}
+.parallax-window {
+  min-height: 900px;
+  background: transparent;
+  background-image: url(image/parallax_tomshon_1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.parallax-window-blog {
+  min-height: 650px;
+  background: transparent;
+  background-image: url(image/dan-meyers-1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.dropdown-menu {
+  background-color: #771313;
+}
+.dropdown-divider {
+  color: #ecf0f3;
+}
+.display-4 {
+  color: #771313;
+}
+.about {
+  background-color: #50fcba;
+  position: flex;
+}
+.service {
+  padding-top: 15rem;
+  position: relative;
+  box-sizing: border-box;
+  max-width: 30px;
+  max-block-size: 50px;
+}
+.display-6 .lead .mb-4 {
+  padding-bottom: 30px;
+}
+.service .card-body .btn {
+  background-color: #771313;
+}
+.project .parallax-window {
+  background-size: 500px;
+  background: transparent;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.contact {
+  background-color: #ffffff;
+}
+.footer {
+  background-color: #111111;
+  font-family: 'Titillium Web', sans-serif;
+}

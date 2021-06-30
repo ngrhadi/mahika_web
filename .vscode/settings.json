@@ -1,0 +1,9 @@
+{
+    "workbench.editor.pinnedTabSizing": "compact",
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "python.pythonPath": "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.restoreViewState": false,
+    "workbench.editor.scrollToSwitchTabs": true
+}
